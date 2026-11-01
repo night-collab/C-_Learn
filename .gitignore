@@ -1,0 +1,7 @@
+# 忽略所有 build 目录及生成产物
+build/
+bin/
+*.exe
+*.obj
+*.o
+*.a
